@@ -53,6 +53,11 @@ If no API key is provided, it falls back to a static list of questions.
 MongoDB schema that represents the user session, including the questions asked, the answers given, and timestamps for the session start and end.
 ## Setup and Running
 
+# Prerequisites
+Node.js (version ≥ 14)
+NPM or Yarn
+**MongoDB database running locally or remotely**
+
 Follow these steps to get the project up and running on your local machine.
 
 Clone the Project and Install Dependencies
